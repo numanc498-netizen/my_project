@@ -12,3 +12,5 @@ This project is for practicing Git and GitHub version control.
 - Pushing and pulling changes
 
 I have successfully connected my project to GitHub.
+
+I am learning how to work with Git branches.
