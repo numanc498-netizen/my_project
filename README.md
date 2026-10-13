@@ -14,3 +14,5 @@ This project is for practicing Git and GitHub version control.
 I have successfully connected my project to GitHub.
 
 I am learning how to work with Git branches.
+
+I practiced editing files directly on GitHub.
