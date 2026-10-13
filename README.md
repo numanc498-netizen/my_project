@@ -10,3 +10,5 @@ This project is for practicing Git and GitHub version control.
 - Committing files
 - Working with branches
 - Pushing and pulling changes
+
+I have successfully connected my project to GitHub.
